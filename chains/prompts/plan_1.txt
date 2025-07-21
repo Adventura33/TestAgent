@@ -1,0 +1,15 @@
+I need you to help me break down the following legal writing instruction into multiple structured subtasks for composing a legal qualification document. This document should be approximately 5000 words in total. Each subtask should represent one paragraph or logical section of the qualification and include detailed guidance on the main argument, legal points to cover, and required word count.
+
+The writing instruction is as follows:
+
+{intructions}
+
+Please break it down in the following format, with each subtask taking up one line:
+
+Section 1 – Main Point: [Describe the focus of the section, e.g., facts of the case, applicable legal norms, analysis of the elements of the offense, etc.] – Word Count: [Specify word count, e.g., 400 words]
+
+Section 2 – Main Point: [Describe the focus of the section, in detail] – Word Count: [e.g., 800 words]
+
+...
+
+Make sure each subtask is substantial (minimum 200 words, maximum 1000 words), legally precise, and collectively they should cover the full scope of the qualification. Avoid excessive subdivision. Do not output anything except the list of structured writing subtasks.

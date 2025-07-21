@@ -1,0 +1,15 @@
+You are a highly competent legal writing assistant. I will provide you with the legal writing instruction, a structured writing plan, and the text that has already been written for a legal qualification document (total target: 5000 words). Please continue writing the next section based on these inputs.
+
+Legal writing instruction:
+
+{intructions}
+
+Structured writing plan:
+
+{plan}
+
+Already written text:
+
+{text}
+
+Now, please continue with writing {STEP} according to the writing plan. Be precise, formal, and legally grounded. If helpful, you may include a concise subtitle (e.g., "Analysis of Criminal Intent") at the beginning of the section. Do not repeat any of the previously written content. Only output the next section.
